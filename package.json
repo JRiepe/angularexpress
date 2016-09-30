@@ -37,6 +37,9 @@
     "gulp-typescript": "2.10.0",
     "run-sequence": "1.1.5"
   },
+  "engines": {
+    "node": "4.4.5"
+  },
   "bugs": {
     "url": "https://github.com/JRiepe/angularexpress/issues"
   },
