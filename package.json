@@ -16,6 +16,9 @@
     "TypeScript",
     "Express4"
   ],
+  "scripts": {
+    "start": "node dist/server.js"
+  },
   "author": "John Riepe",
   "license": "ISC",
   "dependencies": {
